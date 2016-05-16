@@ -1,4 +1,5 @@
 require_relative 'standard'
+require_relative 'annuity'
 
 # App - loan application
 class App
